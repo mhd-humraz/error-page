@@ -5,8 +5,8 @@
 
 A clean and responsive custom 404 error page built using HTML, CSS, and Bootstrap.
 
-[![GitHub Repo](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/your-username/404-error-page)  
-[![Download](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=archive)](https://github.com/your-username/404-error-page/archive/refs/heads/main.zip)
+[![GitHub Repo](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mhd-humraz/404-error-page)  
+[![Download](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=archive)](https://github.com/mhd-humraz/404-error-page/archive/refs/heads/main.zip)
 
 ---
 
